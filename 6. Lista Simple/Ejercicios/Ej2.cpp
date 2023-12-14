@@ -1,4 +1,4 @@
-*2. Crear un programa en la cual se solicite al usuario el ingreso de 5 
+/*2. Crear un programa en la cual se solicite al usuario el ingreso de 5 
 valores numericos. Luego muestre la lista y calcule el promedio de ellos. */
 
 #include <iostream>
