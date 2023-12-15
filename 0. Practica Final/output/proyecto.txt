@@ -1,0 +1,4 @@
+Nombre del proy.    	Tiempo              	Estado              
+info                	157354              	1                   
+arqui               	5424                	3                   
+estruc              	435                 	2                   

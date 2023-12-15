@@ -1,0 +1,3 @@
+Nombre del plato    	Cant. Disponible    	Cant. Vendida       	Precio              
+
+ihgjknhl           	2                   	1                   	1536.00             

@@ -8,7 +8,8 @@ a Sur (NS) o Sur a Norte (SN). Luego, arme un menu de opciones que muestre lo si
 - Borrar el primer nodo de la cola.
 - Mostrar todos los vehiculos. 
 - Mostrar los vehiculos por direccion.
-. Mostrar los vehiculos por ejes. 
+. Mostrar los vehiculos por ejes.
+- Generar unarchivo de texto llamado vehiculo.txt donde se muestre todos los vehiculos con sus datos 
 */
 
 #include <stdio.h>
